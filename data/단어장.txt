@@ -1,0 +1,5 @@
+cat: 고양이 
+dog: 개 
+flower: 꽃 
+apple: 사과 
+banana: 바나나 
